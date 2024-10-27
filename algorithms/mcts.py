@@ -72,9 +72,9 @@ class MCTS:
     
     """
     
-    def __init__(self, iterations=10000):
+    def __init__(self, iterations=10000, player=-1):
         self.iterations = iterations
-        self.player = None
+        self.player = player
 
     def search(self, initial_state):
         """
