@@ -11,9 +11,9 @@ This project implements a modified version of the classic Tic-Tac-Toe game, enha
 - [Future Enhancements](#future-enhancements)
 
 ## Introduction
-This modified Tic-Tac-Toe game uses MCTS to simulate moves, making it more challenging and providing insights into AI-based decision-making. It explores various strategies to maximize the winning potential of each move.
+This modified Tic-Tac-Toe game uses MCTS to simulate moves, making it more challenging and providing insights into AI-based decision-making.
 The repository includes a play file which can be used to play the modified 4v4 version of Tic-Tac-Toe.
-The rest is simulation files, data and MCTS strategies. They serve the purpose to see if the first or the second player has an advantage in the game and if playing with specific strategies would change those results.
+The rest are simulation files, data, and MCTS strategies. They are used to determine whether the first or second player has an advantage in the game and whether playing with specific strategies would change those results.
 
 ## Game Rules
 The rules follow the traditional Tic-Tac-Toe structure with some modifications:
@@ -24,7 +24,7 @@ The rules follow the traditional Tic-Tac-Toe structure with some modifications:
 ## How to Play
 1. Run the `play.py` script to start the game.
 2. You will be prompted to select to play vs another person or vs the MCTS algorithm.
-3. If the latter is chosen you'd be promped to choose difficulty and wheteher you want to be first or second.
+3. If the latter is chosen you'd be prompted to choose difficulty and whether you want to be first or second.
 4. Play the game until all squares are filled.
 
 ## Installation
