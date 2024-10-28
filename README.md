@@ -31,4 +31,4 @@ The rules follow the traditional Tic-Tac-Toe structure with some modifications:
 To get started:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vladigt9/MCTS-simulation-with-modified-Tic-Tac-Toe.git
+   git clone https://github.com/vladigt9/Advanced-tictactoe-with-MCTS-AI.git
